@@ -2,9 +2,13 @@
 
 Unity官方示例项目
 
-B站地址（中文字幕）：<https://www.bilibili.com/video/BV1Qb411n7xz>
+B站地址（中文字幕）：<https://www.bilibili.com/video/BV1Qb411n7xz?p=15>
 
 Unity官方：<https://learn.unity.com/tutorial/live-session-making-a-flappy-bird-style-game>
+
+资源链接: <https://pan.baidu.com/s/1YaAeqkZU15ZYKpkgbtRcOA> 提取码: h67p
+
+或 <https://assetstore.unity.com/packages/templates/flappy-bird-style-example-game-80330>
 
 TODO
 
